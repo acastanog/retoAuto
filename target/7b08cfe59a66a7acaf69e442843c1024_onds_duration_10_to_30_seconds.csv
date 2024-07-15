@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Empleado","Registro nuevo empleado","FAILURE","2024-07-15T15:46:52.6782176-05:00[America/Bogota]","0.0","4.97"
+"candidato","Registro nuevo candidato","SUCCESS","2024-07-15T16:05:27.0577014-05:00[America/Bogota]","0.0","5.21"
